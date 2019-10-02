@@ -1,7 +1,7 @@
 ---
-title: First post
+title: First post test
 date: "2019-10-01T11:35:03.284Z"
-description: "Hello World"
+description: "Test test"
 ---
 
 This is a test post for framtidensklimat.se
